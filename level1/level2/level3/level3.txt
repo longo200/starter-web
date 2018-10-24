@@ -1,6 +1,0 @@
-hitting the [Escape] key. Next, you can type the following commands: ...
- :q to quit. 
- :q! to quit without saving data/file. 
- :x save and quit. 
- Please note that whenever you type :, a vim or vi : will appear at the bottom of the screen. ... 
-      More ...iuiuuuuuuuuuuuuuuuuuuuuuu

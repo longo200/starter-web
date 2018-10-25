@@ -1,7 +1,7 @@
 ## Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-its' very simple indeed. This is now rebasing example
+its' very simple indeed. This is now rebasing example,,,more changes form myfeature branch
 ## Purpose
 
 Sample website with plenty of files for demos.  and thrn write stuff
